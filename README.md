@@ -1,2 +1,2 @@
 # MazeGenerator
- JavaScript Maze Generation  with Depth First Search algorithm
+Maze Generation  with Depth First Search algorithm
